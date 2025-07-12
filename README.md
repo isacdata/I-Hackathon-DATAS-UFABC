@@ -7,7 +7,8 @@ Este projeto foi desenvolvido no Hackathon do curso de Ciência de Dados da Univ
 ```
 I-Hackathon-DATAS-UFABC/
 ├── data-analytics/                # Notebook com EDA e análise estatística
-│   └── Análise.ipynb
+│   ├── ML Models.ipynb           # Modelos com base do INEP
+│   └── Análise.ipynb             # Análise reduzida da base do INEP 2023
 ├── ufabc-score-predictor/        # Núcleo técnico e aplicação
 │   ├── dados/                    # Bases de dados brutas e tratadas
 │   ├── modelos_xgboost/          # Modelos treinados (.pkl)
