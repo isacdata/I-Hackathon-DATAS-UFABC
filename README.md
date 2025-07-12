@@ -5,7 +5,7 @@ Este projeto foi desenvolvido no Hackathon do curso de Ciência de Dados da Univ
 ## 📁 Estrutura do Projeto
 
 ```
-hackathon-datas-main/
+I-Hackathon-DATAS-UFABC/
 ├── data-analytics/                # Notebook com EDA e análise estatística
 │   └── Análise.ipynb
 ├── ufabc-score-predictor/        # Núcleo técnico e aplicação
