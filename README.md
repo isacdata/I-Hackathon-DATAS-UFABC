@@ -17,6 +17,7 @@ I-Hackathon-DATAS-UFABC/
 │       ├── train_models/         # Treinamento dos modelos
 │       └── utils/                # Funções auxiliares
 ├── requirements.txt
+├── Análise dos Fatores Socioeconômicos no Ingresso à UFABC.pdf
 └── README.md
 ```
 
